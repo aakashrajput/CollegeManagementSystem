@@ -16,13 +16,13 @@ USERNAME:admin1<br>
 PASSWORD:rrce@123
 
 <h2>Things you can do</h2>
-Teachers<br>
+<h3>Teachers</h3><br>
   1. Add teachers<br>
   2. Remove teacher<br>
   3. Edit teacher<br>
   4. Search teacher<br>
   5. View teacher's list<br>
-<br>Students<br>
+<br><h3>Students</h3><br>
   1. Add students<br>
   2. Remove students<br>
   3. Edit students<br>
