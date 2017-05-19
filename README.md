@@ -11,8 +11,8 @@ College/School Management system written in C. Our 2nd sem group project a simpl
 (Works with TurboC only the Code::Blocks project is coming soon)
 you can easily add/remove/edit/search students and teachers.
 The Program  include login system, You can edit the login credentials in main.C file
-Default Login 
-USERNAME:admin1
+<br>Default Login<br>
+USERNAME:admin1<br>
 PASSWORD:rrce@123
 
 <h2>Things you can do</h2>
