@@ -22,7 +22,7 @@ Teachers<br>
   3. Edit teacher
   4. Search teacher
   5. View teacher's list
-Students<br>
+<br>Students
   1. Add students
   2. Remove students
   3. Edit students
