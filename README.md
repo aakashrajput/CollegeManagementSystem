@@ -17,17 +17,17 @@ PASSWORD:rrce@123
 
 <h2>Things you can do</h2>
 Teachers<br>
-  1. Add teachers
-  2. Remove teacher
-  3. Edit teacher
-  4. Search teacher
-  5. View teacher's list
-<br>Students
-  1. Add students
-  2. Remove students
-  3. Edit students
-  4. Search students
-  5. View student's list
+  1. Add teachers<br>
+  2. Remove teacher<br>
+  3. Edit teacher<br>
+  4. Search teacher<br>
+  5. View teacher's list<br>
+<br>Students<br>
+  1. Add students<br>
+  2. Remove students<br>
+  3. Edit students<br>
+  4. Search students<br>
+  5. View student's list<br>
   
  ##Soon Going to add a MArkSheet System
  
