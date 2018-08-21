@@ -45,10 +45,7 @@ Owner
 
 - Aakash - Development, Design,
 
-Contributers
 
-- Ankita - Documentation
-- Arpit - Development
 
 
 
